@@ -37,6 +37,7 @@ const MainApp = () => {
     };
     delaybtn();
   };
+
   return (
     <div className="w-screen h-full items-center align-center flex flex-col">
       <div className="w-screen h-1/3 flex justify-center items-center bg-red-50">
