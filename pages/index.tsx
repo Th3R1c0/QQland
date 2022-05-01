@@ -97,7 +97,7 @@ const MainApp = () => {
   );
 };
 
-const Stats = (props) => {
+const Stats = (props: any) => {
   return (
     <div className="w-screen flex-1 flex flex-col justify-between items-center bg-red-100">
       <p>
