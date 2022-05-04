@@ -2,3 +2,4 @@
 
 QQ-land leaderboard app
 
+live: https://qq-land.vercel.app/
